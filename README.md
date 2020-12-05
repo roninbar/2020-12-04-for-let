@@ -1,5 +1,7 @@
 ## Execution Contexts
 
+Install [the mermaid-diagrams Chrome extension](https://chrome.google.com/webstore/detail/mermaid-diagrams/phfcghedmopjadpojhmmaffjmfiakfil) to view this diagram.
+
 ```mermaid
 graph BT
     global["#nbsp;#nbsp;i = 4#nbsp;#nbsp;"]
